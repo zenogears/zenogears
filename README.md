@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenogears&hide_progress=true)](https://zenogears.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenogears&hide_progress=false&theme=dark&show_icons=true)](https://zenogears.github.io)
 <!--
 **zenogears/zenogears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
