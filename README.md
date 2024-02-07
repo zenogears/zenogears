@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/?username=zenogears)](https://zenogears.github.io)
 <!--
 **zenogears/zenogears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
